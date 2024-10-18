@@ -10,8 +10,8 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no Senac-RS
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=milenabregalda&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" alt="Estatísticas do GitHub de Milena Bregalda"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenabregalda&layout=compact&hide_border=true&theme=material-palenight" alt="Linguagens mais usadas por Milena Bregalda"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=milenabregalda&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" alt="Estatísticas do GitHub de Milena Bregalda"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenabregalda&layout=compact&hide_border=true&theme=material-palenight" alt="Linguagens mais usadas por Milena Bregalda"/>
 </div>
 
 ### Linguagens e tecnologias:
