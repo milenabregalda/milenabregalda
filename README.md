@@ -1,7 +1,7 @@
 ## Olá, meu nome é Milena Bregalda! 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/milenabregalda)
 
-Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no Senac-RS. Sou apaixonada por tecnologia e acredito que ela tem o poder de transformar o mundo e criar soluções inovadoras para melhorar a vida das pessoas.
+Atualmente, estou cursando Ciência da Computação na Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Sou apaixonada por tecnologia e acredito que ela tem o poder de transformar o mundo e criar soluções inovadoras para melhorar a vida das pessoas.
 
 - 👩‍💻 Já trabalhei em projetos para desktop e agora estou direcionando a minha atenção para a criação de aplicações web;
 - 🌱 No momento, estou aprendendo tecnologias de front-end e back-end;
